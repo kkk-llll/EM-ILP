@@ -1,0 +1,18 @@
+nodes =  50 , edges =  110 , Length_Limit =  15 , way_number =  3
+O_degree =  6 , I_degree =  6 , da_limit =  0.9 , rt_limit =  0.9 , Ave_rate =  0.1 , plat_C =  1 , Ave_rate_N =  0.6 , U_rate_N =  0.13
+无解数目 2
+成功调度率: 80.0%
+平均运行时间：3.746058399999996s
+
+nodes =  50 , edges =  110 , Length_Limit =  15 , way_number =  3
+O_degree =  6 , I_degree =  6 , da_limit =  0.9 , rt_limit =  0.9 , Ave_rate =  0.3 , plat_C =  1 , Ave_rate_N =  0.6 , U_rate_N =  0.13
+无解数目 1
+成功调度率: 90.0%
+平均运行时间：3.116974387500004s
+
+nodes =  50 , edges =  110 , Length_Limit =  15 , way_number =  3
+O_degree =  6 , I_degree =  6 , da_limit =  0.9 , rt_limit =  0.9 , Ave_rate =  0.5 , plat_C =  1 , Ave_rate_N =  0.6 , U_rate_N =  0.13
+无解数目 2
+成功调度率: 80.0%
+平均运行时间：4.382812825000009s
+

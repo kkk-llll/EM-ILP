@@ -1,0 +1,11 @@
+seed 283
+tg_cnt 1
+task_cnt 46.1 0.1
+period_mul 1
+gen_series_parallel true
+series_must_rejoin true
+task_degree 6 6
+series_local_xover 59.4
+tg_write
+vcg_write
+eps_write

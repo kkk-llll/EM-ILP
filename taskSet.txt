@@ -1,0 +1,266 @@
+HP =  100000
+-----------------
+task 1 :
+period =  50000
+C =  3359
+worksNum =  2
+-----------------
+task 2 :
+period =  20000
+C =  368
+worksNum =  5
+-----------------
+task 3 :
+period =  20000
+C =  141
+worksNum =  5
+-----------------
+task 4 :
+period =  20000
+C =  1177
+worksNum =  5
+-----------------
+task 5 :
+period =  20000
+C =  332
+worksNum =  5
+-----------------
+task 6 :
+period =  20000
+C =  1217
+worksNum =  5
+-----------------
+task 7 :
+period =  100000
+C =  1096
+worksNum =  1
+-----------------
+task 8 :
+period =  100000
+C =  6387
+worksNum =  1
+-----------------
+task 9 :
+period =  20000
+C =  398
+worksNum =  5
+-----------------
+task 10 :
+period =  100000
+C =  1264
+worksNum =  1
+-----------------
+task 11 :
+period =  20000
+C =  711
+worksNum =  5
+-----------------
+task 12 :
+period =  20000
+C =  102
+worksNum =  5
+-----------------
+task 13 :
+period =  20000
+C =  1068
+worksNum =  5
+-----------------
+task 14 :
+period =  20000
+C =  1786
+worksNum =  5
+-----------------
+task 15 :
+period =  20000
+C =  149
+worksNum =  5
+-----------------
+task 16 :
+period =  20000
+C =  1044
+worksNum =  5
+-----------------
+task 17 :
+period =  100000
+C =  1111
+worksNum =  1
+-----------------
+task 18 :
+period =  20000
+C =  178
+worksNum =  5
+-----------------
+task 19 :
+period =  100000
+C =  451
+worksNum =  1
+-----------------
+task 20 :
+period =  100000
+C =  6804
+worksNum =  1
+-----------------
+task 21 :
+period =  100000
+C =  2815
+worksNum =  1
+-----------------
+task 22 :
+period =  20000
+C =  1822
+worksNum =  5
+-----------------
+task 23 :
+period =  100000
+C =  8844
+worksNum =  1
+-----------------
+task 24 :
+period =  20000
+C =  2035
+worksNum =  5
+-----------------
+task 25 :
+period =  20000
+C =  111
+worksNum =  5
+-----------------
+task 26 :
+period =  20000
+C =  6
+worksNum =  5
+-----------------
+task 27 :
+period =  100000
+C =  1742
+worksNum =  1
+-----------------
+task 28 :
+period =  100000
+C =  1368
+worksNum =  1
+-----------------
+task 29 :
+period =  100000
+C =  4480
+worksNum =  1
+-----------------
+task 30 :
+period =  100000
+C =  3543
+worksNum =  1
+-----------------
+task 31 :
+period =  100000
+C =  772
+worksNum =  1
+-----------------
+task 32 :
+period =  20000
+C =  640
+worksNum =  5
+-----------------
+task 33 :
+period =  20000
+C =  562
+worksNum =  5
+-----------------
+task 34 :
+period =  20000
+C =  483
+worksNum =  5
+-----------------
+task 35 :
+period =  20000
+C =  971
+worksNum =  5
+-----------------
+task 36 :
+period =  20000
+C =  693
+worksNum =  5
+-----------------
+task 37 :
+period =  100000
+C =  2637
+worksNum =  1
+-----------------
+task 38 :
+period =  20000
+C =  196
+worksNum =  5
+-----------------
+task 39 :
+period =  20000
+C =  490
+worksNum =  5
+-----------------
+task 40 :
+period =  100000
+C =  157
+worksNum =  1
+-----------------
+task 41 :
+period =  20000
+C =  344
+worksNum =  5
+-----------------
+task 42 :
+period =  100000
+C =  2637
+worksNum =  1
+-----------------
+task 43 :
+period =  100000
+C =  2332
+worksNum =  1
+-----------------
+task 44 :
+period =  20000
+C =  762
+worksNum =  5
+-----------------
+task 45 :
+period =  20000
+C =  936
+worksNum =  5
+-----------------
+task 46 :
+period =  100000
+C =  7217
+worksNum =  1
+-----------------
+task 47 :
+period =  20000
+C =  1128
+worksNum =  5
+-----------------
+task 48 :
+period =  20000
+C =  100
+worksNum =  5
+-----------------
+task 49 :
+period =  100000
+C =  426
+worksNum =  1
+-----------------
+task 50 :
+period =  20000
+C =  526
+worksNum =  5
+-----------------
+task 51 :
+period =  20000
+C =  1307
+worksNum =  5
+-----------------
+task 52 :
+period =  20000
+C =  117
+worksNum =  5
+-----------------
+task 53 :
+period =  50000
+C =  8849
+worksNum =  2
